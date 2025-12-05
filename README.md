@@ -26,7 +26,7 @@ A Python + Streamlit web application that analyzes golf swing videos using AI-po
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/alok-8303/Golf-shot-scoring.git
 cd athena
 ```
 
